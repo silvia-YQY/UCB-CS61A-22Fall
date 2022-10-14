@@ -12,8 +12,10 @@ All **optional** questions are solved.
 
 - ✅ **Discussion**
 - ✅ **Lab**
-  - [] [Lab00](./lab/lab00/lab00.py)
+  - [x] [Lab00](./lab/lab00/lab00.py)
+  - [x] [Lab00](./lab/lab01/lab01.py)
 - ✅ **Homework**
+  - [x] [hw01](./homework/hw01/hw01.py)
 - ✅ **Project**
 
 ---
